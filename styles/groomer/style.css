@@ -183,7 +183,7 @@ li {
     padding-left: 0;
   };
   .nav-link {
-    padding: .5rem;
+    padding: .5rem 0rem;
   }
   h2{
     font-size:14px;
