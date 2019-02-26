@@ -173,7 +173,7 @@ li {
   outline: none;
 }
 
-@media (min-width:768px) {
+@media (max-width:768px) {
   .nav-button {
     width: 100px;
     font-size: 10px;
