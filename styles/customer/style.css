@@ -203,3 +203,18 @@ tr:nth-child(even) {
   color:red;
   display: flex;
 }
+
+@media (max-width:767px) {
+    .msform .action-button {
+    width: 25vw;
+    background: #47B747;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+    font-size: 3.5vw;
+}
+}
